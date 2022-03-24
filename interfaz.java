@@ -270,7 +270,8 @@ int num1=Integer.valueOf(jTextField1.getText());
     /**
      * @param op the op to set
      */
+    
     public void setOp(operaciones op) {
         this.op = op;
-    }
+        }
 }
